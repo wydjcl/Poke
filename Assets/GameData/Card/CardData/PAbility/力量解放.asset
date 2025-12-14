@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60ef8fa480b2aed429b43923769eeda1, type: 3}
+  m_Name: "\u529B\u91CF\u89E3\u653E"
+  m_EditorClassIdentifier: 
+  ID: 8
+  cardName: "\u529B\u91CF\u89E3\u653E"
+  cardImage: {fileID: 21300000, guid: 9fc84f6065ef3f447b4fd2e154813c65, type: 3}
+  cost: 3
+  cardType: 2
+  cardRarity: 0
+  PetPrefab: {fileID: 0}
+  coinCost: 99
+  descriptionEasy: " <color=#FF0000>\u9664\u5916</color>,\u6307\u5B9A\u4F7F\u9B54\u72C2\u66B4,\u6BCF\u56DE\u5408\u884C\u52A82\u6B21"
+  description: "\u529B\u91CF\u89E3\u653E\n\u8D39\u75283\n <color=#FF0000>\u9664\u5916</color>,\u6307\u5B9A\u4F7F\u9B54\u72C2\u66B4,\u6BCF\u56DE\u5408\u884C\u52A82\u6B21"

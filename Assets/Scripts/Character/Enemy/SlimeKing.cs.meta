@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: eaddce1b7f6765444a51c7c1e5ab6c3f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyData: {instanceID: 0}
+  - petData: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - attackText: {instanceID: 0}
+  - defenseText: {instanceID: 0}
+  - IntentionText: {instanceID: 0}
+  - takeDamageTextT: {instanceID: 0}
+  - spriteG: {instanceID: 0}
+  - spriteS: {instanceID: 0}
+  - defenseG: {instanceID: 0}
+  - takeDamageEffect: {instanceID: 0}
+  - takeDamageText: {instanceID: 0}
+  - manaS: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - armorBar: {instanceID: 0}
+  - PetCardPrefab: {instanceID: 0}
+  - rightClick: {instanceID: 0}
+  - nianye: {fileID: 11400000, guid: 765369156ec537542b63031751eb93f8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

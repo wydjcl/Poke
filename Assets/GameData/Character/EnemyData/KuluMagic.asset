@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e8bcf7a0d02e5428e28ceb69842160, type: 3}
+  m_Name: KuluMagic
+  m_EditorClassIdentifier: 
+  ID: 0
+  petName: "\u9AB7\u9AC5\u672F\u58EB"
+  petPrefab: {fileID: 0}
+  health: 20
+  attack: 3
+  maxMana: 1
+  skillDes: "\u666E\u901A\u6280\u80FD:\u9020\u6210\u653B\u51FB\u529B\u7684\u4F24\u5BB3\n\u7279\u6B8A\u6280\u80FD:\u56DE\u590D\u6700\u5DE6\u8FB9\u7684\u654C\u519B\u768410\u70B9\u751F\u547D\u503C,\u5E76\u63D0\u9AD85\u70B9\u653B\u51FB\u529B"
+  smallSkill: 
+  bigSkill: 
+  exSkill: 
+  des: 

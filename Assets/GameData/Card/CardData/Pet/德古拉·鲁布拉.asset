@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60ef8fa480b2aed429b43923769eeda1, type: 3}
+  m_Name: "\u5FB7\u53E4\u62C9\xB7\u9C81\u5E03\u62C9"
+  m_EditorClassIdentifier: 
+  ID: 1002
+  cardName: "\u5FB7\u53E4\u62C9\xB7\u9C81\u5E03\u62C9"
+  cardImage: {fileID: 21300000, guid: 664ed70637ec6374598a44ecceb966ee, type: 3}
+  cost: 1
+  cardType: 4
+  cardRarity: 0
+  PetPrefab: {fileID: 41797586041230633, guid: 96a6648a54ed5b0469b3052441bcd5a4, type: 3}
+  coinCost: 99
+  petIcon: {fileID: 21300000, guid: 75e6908cb20626344b03950e5ca289d5, type: 3}
+  descriptionEasy: "\u653B\u88407/25\n\u6280\u80FD:\u9020\u6210\u66F4\u591A\u4F24\u5BB3\u5E76\u56DE\u590D\u7B49\u503C\u751F\u547D\u503C"
+  description: "\u5FB7\u53E4\u62C9\xB7\u9C81\u5E03\u62C9(\u672A\u89C9\u9192)\n7/25\n\u6280\u80FD:\u9020\u6210\u66F4\u591A\u4F24\u5BB3\u5E76\u56DE\u590D\u7B49\u503C\u751F\u547D\u503C"

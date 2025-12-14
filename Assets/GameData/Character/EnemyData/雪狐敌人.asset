@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e8bcf7a0d02e5428e28ceb69842160, type: 3}
+  m_Name: "\u96EA\u72D0\u654C\u4EBA"
+  m_EditorClassIdentifier: 
+  ID: 1
+  petName: "\u96EA\u72D0"
+  petPrefab: {fileID: 41797586041230633, guid: aba76e7c4747ab84dae8ce0c211f07c4, type: 3}
+  health: 20
+  attack: 5
+  S1: 3
+  S2: 2
+  S3: 1
+  description: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e8bcf7a0d02e5428e28ceb69842160, type: 3}
+  m_Name: Pet2
+  m_EditorClassIdentifier: 
+  ID: 2
+  petName: "\u5FB7\u53E4\u62C9\xB7\u9C81\u5E03\u62C9"
+  petPrefab: {fileID: 41797586041230633, guid: cf3210844f03fe1488ad00aab61e4d21, type: 3}
+  health: 25
+  attack: 7
+  maxMana: 3
+  skillDes: "\u666E\u901A\u6280\u80FD:\u9020\u6210\u7684\u7B49\u989D\u653B\u51FB\u529B\u7684\u4F24\u5BB3\n\u7279\u6B8A\u6280\u80FD:\u9020\u6210\u653B\u51FB\u529B\u5BF9\u7B2C\u4E00\u4E2A\u654C\u4EBA\u9020\u6210\u653B\u51FB\u529BX2\u500D\u7684\u4F24\u5BB3,\u5E76\u56DE\u590D\u9020\u6210\u7684\u4F24\u5BB3\n\u89C9\u9192\u6280\u80FD:\u6682\u672A\u89C9\u9192"
+  smallSkill: "\u5BF9\u7B2C\u4E00\u4E2A\u654C\u4EBA\u9020\u6210\u653B\u51FB\u529B\u7684\u4F24\u5BB3"
+  bigSkill: "\u5BF9\u7B2C\u4E00\u4E2A\u654C\u4EBA\u9020\u6210\u653B\u51FB\u529BX2\u7684\u4F24\u5BB3,\u5E76\u56DE\u590D\u9020\u6210\u7684\u4F24\u5BB3"
+  exSkill: 
+  des: 
