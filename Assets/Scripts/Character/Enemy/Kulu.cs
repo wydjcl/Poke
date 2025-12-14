@@ -26,7 +26,6 @@ public class Kulu : CharacterBase
     // Update is called once per frame
     public override void Act(int battleID)
     {
-        Debug.Log("小骷髅");
         base.Act(battleID);//不是这个id退出
         if (battleID != NO || isDead)
         {

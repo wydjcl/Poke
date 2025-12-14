@@ -1317,7 +1317,7 @@ MonoBehaviour:
   playerMana: 0
   playerMaxMana: 3
   isPlayerDead: 0
-  playerSettingManaMax: 300
+  playerSettingManaMax: 3
   playerSettingAtk: 7
   playerAttack: 7
   playerCoin: 0

@@ -87,7 +87,7 @@ public class CardDeck : MonoBehaviour
     //
     public void NewTunrDrawCard()
     {
-        DrawCard(4);
+        DrawCard(5);
     }
 
     public void DrawCard(int amount)

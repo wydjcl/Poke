@@ -149,7 +149,7 @@ public class Card : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
          }*/
         BattleManager.Instance.playerMana -= cardData.cost;
         UIManager.Instance.ChangeUIInBattle();
-        Debug.Log("ID" + ID);
+
         if (ID == -1)//≤¡ √’≥“∫
         {
             outCardEvent.RaisEvent(this, this);//∆˙’‚’≈ø®
